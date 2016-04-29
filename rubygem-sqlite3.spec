@@ -4,7 +4,7 @@
 #
 Name     : rubygem-sqlite3
 Version  : 1.3.10
-Release  : 4
+Release  : 5
 URL      : https://rubygems.org/downloads/sqlite3-1.3.10.gem
 Source0  : https://rubygems.org/downloads/sqlite3-1.3.10.gem
 Summary  : No detailed summary available
